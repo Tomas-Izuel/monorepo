@@ -43,6 +43,9 @@
         "style": "tailwind",
         "linter": "eslint"
       }
+    },
+    "@nx/react": {
+      "library": {}
     }
   },
   "nxCloudAccessToken": "NThkNTA1YjMtMTA3MC00MjU5LThjODktNzE3ZTUzMjhmZmZlfHJlYWQtd3JpdGU="
